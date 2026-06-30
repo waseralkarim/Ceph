@@ -4,15 +4,15 @@ A complete step-by-step guide for setting up a Ceph storage cluster with all maj
 
 ##  Table of Contents
 
-1. [Ceph Components Overview](./docs/00-COMPONENTS.md)
-2. [System Preparation](./docs/01-SYSTEM-PREPARATION.md)
-3. [Install cephadm](./docs/02-INSTALL-CEPHADM.md)
-4. [Bootstrap the Cluster](./docs/03-BOOTSTRAP-CLUSTER.md)
-5. [Verify Installation](./docs/04-VERIFY-INSTALLATION.md)
-6. [Add OSD (Object Storage Daemon)](./docs/05-ADD-OSD.md)
-7. [Deploy RGW (S3-Compatible Gateway)](./docs/06-DEPLOY-RGW.md)
-8. [Deploy CephFS (Distributed Filesystem)](./docs/07-DEPLOY-CEPHFS.md)
-9. [Setup RBD (Block Storage)](./docs/08-SETUP-RBD.md)
+1. [Ceph Components Overview](./00-COMPONENTS.md)
+2. [System Preparation](./01-SYSTEM-PREPARATION.md)
+3. [Install cephadm](./02-INSTALL-CEPHADM.md)
+4. [Bootstrap the Cluster](./03-BOOTSTRAP-CLUSTER.md)
+5. [Verify Installation](./04-VERIFY-INSTALLATION.md)
+6. [Add OSD (Object Storage Daemon)](./05-ADD-OSD.md)
+7. [Deploy RGW (S3-Compatible Gateway)](./06-DEPLOY-RGW.md)
+8. [Deploy CephFS (Distributed Filesystem)](./07-DEPLOY-CEPHFS.md)
+9. [Setup RBD (Block Storage)](./08-SETUP-RBD.md)
 
 ##  Quick Start
 
